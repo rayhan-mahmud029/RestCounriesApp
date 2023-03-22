@@ -1,0 +1,19 @@
+.country-card{
+    background-color: rgba(238, 119, 205, 0.412);
+    border-radius: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;   
+}
+
+.card-title{
+    font-size: 28px;
+    line-height: 40px;
+}
+
+.card-description{
+    line-height: 20px;
+}
+
+.country-card img{
+    border-radius: 15px  15px 0 0;
+}
